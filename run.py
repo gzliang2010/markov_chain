@@ -1,4 +1,4 @@
-from markov_python.cc_markov import MarkovChain
+from cc_markov import MarkovChain
 from fetch_data import fetch_data
 import pickle
 import os
